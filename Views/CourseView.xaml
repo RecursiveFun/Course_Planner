@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Course_Planner_App_Felix__Berinde.Views.CourseView">
+    <NavigationPage.TitleView>
+        <StackLayout>
+            <Label x:Name ="Title" TextColor="White" FontSize="Medium" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </StackLayout>
+    </NavigationPage.TitleView>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="350"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" TextColor="Black" Text="Start Date:" HorizontalOptions="End"></Label>
+            <Label Grid.Row="0" Grid.Column="2" TextColor="Black" Text="End Date:" HorizontalOptions="Start"></Label>
+            <Label Grid.Row="1" Grid.Column="0" TextColor="Black" x:Name="Start" HorizontalOptions="End"></Label>
+            <Label Grid.Row="1" Grid.Column="1" TextColor="Black" Text="-" HorizontalOptions="Center"></Label>
+            <Label Grid.Row="1" Grid.Column="2" TextColor="Black" x:Name="End" HorizontalOptions="Start"></Label>
+            <Button Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" x:Name="Assessments" Text="Assessments" HorizontalOptions="Center" Padding="75,25" Clicked="Assessments_OnClicked"></Button>
+            <Grid Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" Grid.RowSpan="2" BackgroundColor="#474646" Margin="20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" Grid.Column="0" BackgroundColor="White" Margin="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="40"/>
+                    </Grid.RowDefinitions>
+                        <Label Grid.Row="0" Grid.Column="0" x:Name="StatusLabel" TextColor="Black" Text="Status:" Margin="5,5,0,0"></Label>
+                        <Label x:Name="Status" Text="{Binding Status}"
+                               TextColor="Black" Grid.Row="0" Grid.ColumnSpan="2" Grid.Column="1" Margin="0,5,0,0" HorizontalTextAlignment="Center" />
+                        <Label Grid.Row="1" Grid.Column="0" x:Name="NameLabel" TextColor="Black" Text="Instructor Name:" Margin="5,5,0,0"></Label>
+                        <Label x:Name="InstructorName" Text="{Binding InstructorName}"
+                               TextColor="Black" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="1" Margin="0,5,0,0" HorizontalTextAlignment="Center" />
+                        <Label Grid.Row="2" Grid.Column="0" x:Name="PhoneLabel" TextColor="Black" Text="Instructor Phone:" Margin="5,5,0,0"></Label>
+                        <Label x:Name="InstructorPhone" Text="{Binding InstructorPhone}"
+                               TextColor="Black" Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="1" Margin="0,5,0,0" HorizontalTextAlignment="Center" />
+                        <Label Grid.Row="3" Grid.Column="0" x:Name="EmailLabel" TextColor="Black" Text="Instructor Email:" Margin="5,5,0,0"></Label>
+                        <Label x:Name="InstructorEmail" Text="{Binding InstructorEmail}"
+                               TextColor="Black" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="1" Margin="0,5,0,0" HorizontalTextAlignment="Center" />
+                        <Label Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" x:Name="StartNotificationLabel" TextColor="Black" Text="Start Date Notification:" Margin="5,5,0,0"></Label>
+                        <Switch Grid.Row="4" Grid.Column="2" x:Name="StartNotification" HorizontalOptions="Start" VerticalOptions="Start"  IsEnabled="False" IsToggled="True" OnColor="Green" ThumbColor="Black" Margin="5,5,0,0"/>
+                        <Label Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" x:Name="EndNotificationLabel" TextColor="Black" Text="End Date Notification:" Margin="5,5,0,0"></Label>
+                        <Switch Grid.Row="5" Grid.Column="2" x:Name="EndNotification" HorizontalOptions="Start" VerticalOptions="Start"  IsEnabled="False" IsToggled="True" OnColor="Green" ThumbColor="Black" Margin="5,5,0,0"/>
+                    <Label Grid.Row="6" Grid.Column="0" x:Name="NotesLabel" TextColor="Black" Text="Notes:" Margin="5,5,0,0"></Label>
+                        <Label x:Name="Notes" Text="{Binding Notes}" FontSize="Small"
+                               TextColor="Black" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="3"  Margin="50,5,0,0" />
+                        <Button Grid.Row="8" Grid.Column="1" x:Name="ShareNote" Text="Share" Clicked="Share_OnClicked"></Button>
+
+
+                </Grid>
+            </Grid>
+            <Button Grid.Row="5" Grid.Column="0" x:Name="EditCourse" Text="Edit Course" HorizontalOptions="End" Clicked="EditCourse_OnClicked"></Button>
+            <Button Grid.Row="5" Grid.Column="2" x:Name="DeleteCourse" Text="Delete Course" HorizontalOptions="Start" Clicked="DeleteCourse_OnClickedButton_OnClicked" Margin="-20,0,0,0"></Button>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Course_Planner_App_Felix__Berinde.Views.TermView">
+    <NavigationPage.TitleView>
+        <StackLayout>
+            <Label x:Name ="Title" TextColor="White" FontSize="Medium" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </StackLayout>
+    </NavigationPage.TitleView>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add Course" x:Name="AddCourse" Clicked="AddCourse_OnClicked"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="450"/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" TextColor="Black" Text="Start Date:" HorizontalOptions="End"></Label>
+            <Label Grid.Row="0" Grid.Column="2" TextColor="Black" Text="End Date:" HorizontalOptions="Start"></Label>
+            <Label Grid.Row="1" Grid.Column="0" TextColor="Black" x:Name="Start" HorizontalOptions="End"></Label>
+            <Label Grid.Row="1" Grid.Column="1" TextColor="Black" Text="-" HorizontalOptions="Center"></Label>
+            <Label Grid.Row="1" Grid.Column="2" TextColor="Black" x:Name="End" HorizontalOptions="Start"></Label>
+            <Label Grid.Row="2" Grid.Column="0" TextColor="Black" Margin="10,0" VerticalOptions="End" Text="Courses:"></Label>
+            <CollectionView Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" x:Name="CourseCollectionView" ItemsSource="{Binding Courses}" EmptyView="No courses to Display." SelectionMode="Single" SelectionChanged="CourseCollectionView_OnSelectionChanged">
+                <CollectionView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Vertical" ItemSpacing="10"/>
+                </CollectionView.ItemsLayout>
+                <!-- define the appearance of each item in the list -->
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <Grid Margin="10" Padding="5" RowSpacing="1" ColumnSpacing="22" BackgroundColor="SlateGray">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Label Text="{Binding Title}" FontSize="Medium" Grid.Row="0" Grid.Column="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                                <Label Text="{Binding Status}" FontSize="Medium" Grid.Row="1" Grid.Column="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                            </Grid>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Button Grid.Row="4" Grid.Column="0" Text="Edit Term" HorizontalOptions="End"  Clicked="EditTerm_OnClicked"></Button>
+            <Button Grid.Row="4" Grid.Column="2" Text="Delete Term" HorizontalOptions="Start" Clicked="Button_OnClicked" Margin="-20,0,0,0"></Button>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
