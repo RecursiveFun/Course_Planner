@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Course_Planner_App_Felix__Berinde.Views.AssessmentDetail">
+    <NavigationPage.TitleView>
+        <StackLayout>
+            <Label x:Name ="Title" TextColor="White" FontSize="Medium" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+        </StackLayout>
+    </NavigationPage.TitleView>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="Home" Text="Home" Clicked="Home_OnClicked"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="70"/>
+                <RowDefinition Height="390"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" TextColor="Black" Text="Start Date:" HorizontalOptions="End"></Label>
+            <Label Grid.Row="0" Grid.Column="2" TextColor="Black" Text="End Date:" HorizontalOptions="Start"></Label>
+            <Label Grid.Row="1" Grid.Column="0" TextColor="Black" x:Name="Start" HorizontalOptions="End"></Label>
+            <Label Grid.Row="1" Grid.Column="1" TextColor="Black" Text="-" HorizontalOptions="Center"></Label>
+            <Label Grid.Row="1" Grid.Column="2" TextColor="Black" x:Name="End" HorizontalOptions="Start"></Label>
+            <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Grid.RowSpan="2" BackgroundColor="#474646" Margin="20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Grid.Column="0" BackgroundColor="White" Margin="3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25"/>
+                        <RowDefinition Height="25"/>
+                        <RowDefinition Height="25"/>
+                    </Grid.RowDefinitions>
+                    <Label Grid.Row="0" Grid.Column="0" x:Name="TypeLabel" TextColor="Black" Text="Type:" Margin="5,5,0,0"></Label>
+                    <Label x:Name="Type" Text="{Binding Type}"
+                               TextColor="Black" Grid.Row="0" Grid.Column="2" HorizontalTextAlignment="Start" VerticalTextAlignment="Center"/>
+                    <Label Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" x:Name="StartNotificationLabel" TextColor="Black" Text="Start Date Notification:" Margin="5,5,0,0"></Label>
+                    <Switch Grid.Row="1" Grid.Column="2" x:Name="StartNotification" HorizontalOptions="Start" VerticalOptions="Start"  IsEnabled="False" OnColor="Green" ThumbColor="Black"/>
+                    <Label Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" x:Name="EndNotificationLabel" TextColor="Black" Text="End Date Notification:" Margin="5,5,0,0"></Label>
+                    <Switch Grid.Row="2" Grid.Column="2" x:Name="EndNotification" HorizontalOptions="Start" VerticalOptions="Start"  IsEnabled="False" OnColor="Green" ThumbColor="Black"/>
+                </Grid>
+            </Grid>
+            <Button Grid.Row="4" Grid.Column="0" x:Name="EditAssessment" Text="Edit Assessment" HorizontalOptions="End" Margin="20,0,0,0" Clicked="EditAssessment_OnClicked"></Button>
+            <Button Grid.Row="4" Grid.Column="2" x:Name="DeleteAssessment" Text="Delete Assessment" HorizontalOptions="Start" Margin="0,0,20,0" Clicked="DeleteAssessment_OnClicked"></Button>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

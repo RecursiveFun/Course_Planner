@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Course_Planner_App_Felix__Berinde.MainPage">
+    <NavigationPage.TitleView>
+        <Label Text="Course Planner App" Margin="60,0,0,0" TextColor="White" FontSize="Medium" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+    </NavigationPage.TitleView>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="AddTerm" Text="Add Term" Priority="0" Order="Primary" Clicked="AddTerm_OnClicked"></ToolbarItem>
+       <!-- <ToolbarItem x:Name="Settings" Text="Settings" Order="Secondary" Clicked="Settings_OnClicked"></ToolbarItem> -->
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" TextColor="Black" Margin="10,0" VerticalOptions="End" Text="Terms:"></Label>
+            <CollectionView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" x:Name="TermCollectionView" ItemsSource="{Binding Terms}" EmptyView="No terms to Display." SelectionMode="Single" SelectionChanged="TermCollectionView_OnSelectionChanged">
+                <CollectionView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Vertical" ItemSpacing="10"/>
+                </CollectionView.ItemsLayout>
+                <!-- define the appearance of each item in the list -->
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <Grid Margin="10" Padding="5" RowSpacing="1" ColumnSpacing="22" BackgroundColor="SlateGray">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Row="0" Grid.Column="0" Text="Start Date:" HorizontalOptions="End" VerticalOptions="End"></Label>
+                                <Label Text="{Binding Title}" FontAttributes="Bold" FontSize="Medium" Grid.Row="0" Grid.Column="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                                <Label Grid.Row="0" Grid.Column="2" Text="End Date:" HorizontalOptions="Start" VerticalOptions="End"></Label>
+                                <Label Text="{Binding StartDate, StringFormat='{}{0:MM/dd/yyyy}'}" FontSize="Medium" Grid.Row="1" Grid.Column="0" HorizontalTextAlignment="End" VerticalOptions="Center" VerticalTextAlignment="Center"/>
+                                <Label Text="-" FontSize="Medium" Grid.Row="1" Grid.Column="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                                <Label Text="{Binding EndDate, StringFormat='{}{0:MM/dd/yyyy}'}" FontSize="Medium" Grid.Row="1" Grid.Column="2" HorizontalTextAlignment="Start" VerticalTextAlignment="Center"/>
+                            </Grid>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

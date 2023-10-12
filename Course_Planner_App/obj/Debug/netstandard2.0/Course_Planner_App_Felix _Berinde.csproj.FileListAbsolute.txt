@@ -1,0 +1,133 @@
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.deps.json
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\ref\Course_Planner_App_Felix _Berinde.dll
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AppSettings.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentAdd.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentDetail.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentEdit.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentView.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseAdd.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseEdit.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseView.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermAdd.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermEdit.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermView.xaml.g.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfoInputs.cache
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfo.cs
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.csproj.CoreCompileInputs.cache
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\ref\Course_Planner_App_Felix _Berinde.dll
+C:\Users\dansp\source\repos\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.deps.json
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\ref\Course_Planner_App_Felix _Berinde.dll
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AppSettings.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentAdd.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentDetail.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentEdit.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentView.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseAdd.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseEdit.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseView.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermAdd.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermEdit.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermView.xaml.g.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfoInputs.cache
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfo.cs
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.csproj.CoreCompileInputs.cache
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\ref\Course_Planner_App_Felix _Berinde.dll
+C:\Users\dansp\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.deps.json
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.csproj.AssemblyReference.cache
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AppSettings.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentAdd.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentDetail.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentEdit.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentView.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseAdd.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseEdit.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseView.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermAdd.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermEdit.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermView.xaml.g.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfoInputs.cache
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfo.cs
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.csproj.CoreCompileInputs.cache
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\refint\Course_Planner_App_Felix _Berinde.dll
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+C:\Users\felix\OneDrive\Desktop\Coding and Development\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\ref\Course_Planner_App_Felix _Berinde.dll
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.deps.json
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.csproj.AssemblyReference.cache
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AppSettings.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentAdd.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentDetail.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentEdit.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\AssessmentView.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseAdd.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseEdit.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\CourseView.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermAdd.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermEdit.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Views\TermView.xaml.g.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfoInputs.cache
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfo.cs
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.csproj.CoreCompileInputs.cache
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\refint\Course_Planner_App_Felix _Berinde.dll
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+E:\Course_Planner_App_Felix _Berinde\Course_Planner_App_Felix _Berinde\obj\Debug\netstandard2.0\ref\Course_Planner_App_Felix _Berinde.dll
+E:\Course_Planner_App\Course_Planner_App\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.deps.json
+E:\Course_Planner_App\Course_Planner_App\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+E:\Course_Planner_App\Course_Planner_App\bin\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.csproj.AssemblyReference.cache
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.GeneratedMSBuildEditorConfig.editorconfig
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\AppSettings.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\AssessmentAdd.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\AssessmentDetail.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\AssessmentEdit.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\AssessmentView.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\CourseAdd.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\CourseEdit.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\CourseView.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\SplashPage.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\TermAdd.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\TermEdit.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Views\TermView.xaml.g.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfoInputs.cache
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.AssemblyInfo.cs
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.csproj.CoreCompileInputs.cache
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.dll
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\refint\Course_Planner_App_Felix _Berinde.dll
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\Course_Planner_App_Felix _Berinde.pdb
+E:\Course_Planner_App\Course_Planner_App\obj\Debug\netstandard2.0\ref\Course_Planner_App_Felix _Berinde.dll
